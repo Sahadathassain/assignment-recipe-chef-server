@@ -1,536 +1,958 @@
 [
-    {
-      "id": 1,
-      "chef_picture": "https://new-media.dhakatribune.com/en/uploads/2022/11/09/tomy-d4272514f649ee16d903d1f4dec47278.jpeg",
-    "chef_name": "Tommy Mia ",
-      "years_of_experience": 10,
-      "number_of_recipes": 50,
-      "likes": 10000,
-      "bio": "John Smith is a chef with 10 years of experience. He has created 50 recipes and has gained 10000 likes for his dishes.",
-      "recipe": [
-        {
-          "recipe_name": "Chicken Fajitas",
-          "id": 20,
-          "recipe_img": "https://www.foodandwine.com/thmb/ja3nlw1Mxefbc9ZcTFxJMgqaw54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Chicken-Fajitas-FT-BLOG0822-2000-edc7c46e33e9444a81d60fc24bbbd69f.jpg",
-          "ingredients": [
-            "1 pound boneless, skinless chicken breasts",
-            "2 tablespoons olive oil",
-            "2 teaspoons chili powder",
-            "1 teaspoon cumin",
-            "1/2 teaspoon garlic powder",
-            "1/2 teaspoon onion powder",
-            "1/4 teaspoon salt",
-            "1 red bell pepper, sliced",
-            "1 green bell pepper, sliced",
-            "1 yellow onion, sliced",
-            "Tortillas, for serving"
-          ],
-          "method": [
-            "Preheat the oven to 400°F.",
-            "In a small bowl, mix together the chili powder, cumin, garlic powder, onion powder, and salt.",
-            "Cut the chicken breasts into thin strips, then coat with the spice mixture.",
-            "In a large bowl, toss the sliced peppers and onions with the olive oil.",
-            "Spread the peppers and onions in a single layer on a baking sheet, then arrange the chicken strips on top.",
-            "Roast in the oven for 20-25 minutes, until the chicken is cooked through.",
-            "Serve with tortillas."
-          ],
-          "rating": 3
-        },
-        {
-          "recipe_name": "Shrimp Scampi",
-          "id": 21,
-          "recipe_img": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
-          "ingredients": [
-            "1 pound shrimp, peeled and deveined",
-            "1/4 cup olive oil",
-            "4 cloves garlic, minced",
-            "1/2 teaspoon red pepper flakes",
-            "Salt and pepper, to taste",
-            "1/4 cup white wine",
-            "2 tablespoons lemon juice",
-            "1/4 cup chopped fresh parsley",
-            "Linguine, for serving"
-          ],
-          "method": [
-            "Cook the linguine according to package directions until al dente.",
-            "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
-            "Add the garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
-            "Add the shrimp and season with salt and pepper.",
-            "Cook the shrimp for 2-3 minutes on each side, until pink and cooked through.",
-            "Add the white wine and lemon juice to the skillet and bring to a simmer.",
-            "Stir in the chopped parsley.",
-            "Serve the shrimp scampi over the cooked linguine."
-          ],
-          "rating": 4
-        },
-        {
-          "recipe_name": "Baked Salmon with Lemon and Dill",
-          "id": 22,
-          "recipe_img": "https://disheswithdad.com/wp-content/uploads/2020/03/lemon-dill-salmon-3.jpg",
-          "ingredients": [
-            "4 salmon fillets",
-            "2 tablespoons olive oil",
-            "Salt and pepper, to taste",
-            "2 lemons, sliced",
-            "4 sprigs fresh dill",
-            "1/4 cup white wine"
-          ],
-          "method": [
-            "Preheat the oven to 400°F.",
-            "Line a baking sheet with foil and lightly grease with olive oil.",
-            "Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet.",
-            "Top each fillet with a slice of lemon and a sprig of dill.",
-            "Drizzle the white wine over the salmon fillets.",
-            "Bake in the oven for 12-15 minutes, until the salmon is cooked through and flaky.",
-            "Serve hot."
-          ],
-          "rating": 5
-        }
-      ]
-    },
-    {
-      "id": 2,
-      "chef_picture": "https://media.licdn.com/dms/image/C4E03AQFeXy3y1Tf7Ug/profile-displayphoto-shrink_800_800/0/1658811536973?e=2147483647&v=beta&t=C_YIuCcKGuDTInTFnAbmK_4N2Nb1DoiM0_Ce3T0a0eU",
-      "chef_name": "Nazrul Islam",
-      "years_of_experience": 8,
-      "number_of_recipes": 75,
-      "likes": 8500,
-      "bio": "Samantha Lee is a chef with 8 years of experience. She has created 75 recipes and has gained 8500 likes for her dishes.",
-      "recipe": [
-        {
-          "recipe_name": "Chicken Fajitas",
-          "id": 20,
-          "recipe_img": "https://www.foodandwine.com/thmb/ja3nlw1Mxefbc9ZcTFxJMgqaw54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Chicken-Fajitas-FT-BLOG0822-2000-edc7c46e33e9444a81d60fc24bbbd69f.jpg",
-          "ingredients": [
-            "1 pound boneless, skinless chicken breasts",
-            "2 tablespoons olive oil",
-            "2 teaspoons chili powder",
-            "1 teaspoon cumin",
-            "1/2 teaspoon garlic powder",
-            "1/2 teaspoon onion powder",
-            "1/4 teaspoon salt",
-            "1 red bell pepper, sliced",
-            "1 green bell pepper, sliced",
-            "1 yellow onion, sliced",
-            "Tortillas, for serving"
-          ],
-          "method": [
-            "Preheat the oven to 400°F.",
-            "In a small bowl, mix together the chili powder, cumin, garlic powder, onion powder, and salt.",
-            "Cut the chicken breasts into thin strips, then coat with the spice mixture.",
-            "In a large bowl, toss the sliced peppers and onions with the olive oil.",
-            "Spread the peppers and onions in a single layer on a baking sheet, then arrange the chicken strips on top.",
-            "Roast in the oven for 20-25 minutes, until the chicken is cooked through.",
-            "Serve with tortillas."
-          ],
-          "rating": 4
-        },
-        {
-          "recipe_name": "Shrimp Scampi",
-          "id": 21,
-          "recipe_img": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
-          "ingredients": [
-            "1 pound shrimp, peeled and deveined",
-            "1/4 cup olive oil",
-            "4 cloves garlic, minced",
-            "1/2 teaspoon red pepper flakes",
-            "Salt and pepper, to taste",
-            "1/4 cup white wine",
-            "2 tablespoons lemon juice",
-            "1/4 cup chopped fresh parsley",
-            "Linguine, for serving"
-          ],
-          "method": [
-            "Cook the linguine according to package directions until al dente.",
-            "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
-            "Add the garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
-            "Add the shrimp and season with salt and pepper.",
-            "Cook the shrimp for 2-3 minutes on each side, until pink and cooked through.",
-            "Add the white wine and lemon juice to the skillet and bring to a simmer.",
-            "Stir in the chopped parsley.",
-            "Serve the shrimp scampi over the cooked linguine."
-          ],
-          "rating": 5
-        },
-        {
-          "recipe_name": "Baked Salmon with Lemon and Dill",
-          "id": 22,
-          "recipe_img": "https://disheswithdad.com/wp-content/uploads/2020/03/lemon-dill-salmon-3.jpg",
-          "ingredients": [
-            "4 salmon fillets",
-            "2 tablespoons olive oil",
-            "Salt and pepper, to taste",
-            "2 lemons, sliced",
-            "4 sprigs fresh dill",
-            "1/4 cup white wine"
-          ],
-          "method": [
-            "Preheat the oven to 400°F.",
-            "Line a baking sheet with foil and lightly grease with olive oil.",
-            "Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet.",
-            "Top each fillet with a slice of lemon and a sprig of dill.",
-            "Drizzle the white wine over the salmon fillets.",
-            "Bake in the oven for 12-15 minutes, until the salmon is cooked through and flaky.",
-            "Serve hot."
-          ],
-          "rating": 4
-        }
-      ]
-    },
-    {
-      "id": 3,
-      "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9bYjtENtApKDMosrifYViW-ZT2sgCsZQxIQ&usqp=CAU",
-    "chef_name": "Praveen Singh",
-      "years_of_experience": 12,
-      "number_of_recipes": 100,
-      "likes": 12000,
-      "bio": "David Kim is a chef with 12 years of experience. He has created 100 recipes and has gained 12000 likes for his dishes.",
-      "recipe": [
-        {
-          "recipe_name": "Chicken Fajitas",
-          "id": 20,
-          "recipe_img": "https://www.foodandwine.com/thmb/ja3nlw1Mxefbc9ZcTFxJMgqaw54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Chicken-Fajitas-FT-BLOG0822-2000-edc7c46e33e9444a81d60fc24bbbd69f.jpg",
-          "ingredients": [
-            "1 pound boneless, skinless chicken breasts",
-            "2 tablespoons olive oil",
-            "2 teaspoons chili powder",
-            "1 teaspoon cumin",
-            "1/2 teaspoon garlic powder",
-            "1/2 teaspoon onion powder",
-            "1/4 teaspoon salt",
-            "1 red bell pepper, sliced",
-            "1 green bell pepper, sliced",
-            "1 yellow onion, sliced",
-            "Tortillas, for serving"
-          ],
-          "method": [
-            "Preheat the oven to 400°F.",
-            "In a small bowl, mix together the chili powder, cumin, garlic powder, onion powder, and salt.",
-            "Cut the chicken breasts into thin strips, then coat with the spice mixture.",
-            "In a large bowl, toss the sliced peppers and onions with the olive oil.",
-            "Spread the peppers and onions in a single layer on a baking sheet, then arrange the chicken strips on top.",
-            "Roast in the oven for 20-25 minutes, until the chicken is cooked through.",
-            "Serve with tortillas."
-          ],
-          "rating": 4
-        },
-        {
-          "recipe_name": "Shrimp Scampi",
-          "id": 21,
-          "recipe_img": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
-          "ingredients": [
-            "1 pound shrimp, peeled and deveined",
-            "1/4 cup olive oil",
-            "4 cloves garlic, minced",
-            "1/2 teaspoon red pepper flakes",
-            "Salt and pepper, to taste",
-            "1/4 cup white wine",
-            "2 tablespoons lemon juice",
-            "1/4 cup chopped fresh parsley",
-            "Linguine, for serving"
-          ],
-          "method": [
-            "Cook the linguine according to package directions until al dente.",
-            "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
-            "Add the garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
-            "Add the shrimp and season with salt and pepper.",
-            "Cook the shrimp for 2-3 minutes on each side, until pink and cooked through.",
-            "Add the white wine and lemon juice to the skillet and bring to a simmer.",
-            "Stir in the chopped parsley.",
-            "Serve the shrimp scampi over the cooked linguine."
-          ],
-          "rating": 3
-        },
-        {
-          "recipe_name": "Baked Salmon with Lemon and Dill",
-          "id": 22,
-          "recipe_img": "https://disheswithdad.com/wp-content/uploads/2020/03/lemon-dill-salmon-3.jpg",
-          "ingredients": [
-            "4 salmon fillets",
-            "2 tablespoons olive oil",
-            "Salt and pepper, to taste",
-            "2 lemons, sliced",
-            "4 sprigs fresh dill",
-            "1/4 cup white wine"
-          ],
-          "method": [
-            "Preheat the oven to 400°F.",
-            "Line a baking sheet with foil and lightly grease with olive oil.",
-            "Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet.",
-            "Top each fillet with a slice of lemon and a sprig of dill.",
-            "Drizzle the white wine over the salmon fillets.",
-            "Bake in the oven for 12-15 minutes, until the salmon is cooked through and flaky.",
-            "Serve hot."
-          ],
-          "rating": 4
-        }
-      ]
-    },
-    {
-      "id": 4,
-      "chef_picture": "https://1.bp.blogspot.com/-aIsd0ndB07E/U0tS5zk17kI/AAAAAAAAVkw/uHcDx23F5RI/s1600/021.JPG",
-      "chef_name": "Shawkat Osman",
-      "years_of_experience": 6,
-      "number_of_recipes": 40,
-      "likes": 5000,
-      "bio": "Maria Rodriguez is a chef with 6 years of experience. She has created 40 recipes and has gained 5000 likes for her dishes.",
-      "recipe": [
-        {
-          "recipe_name": "Chicken Fajitas",
-          "id": 20,
-          "recipe_img": "https://www.foodandwine.com/thmb/ja3nlw1Mxefbc9ZcTFxJMgqaw54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Chicken-Fajitas-FT-BLOG0822-2000-edc7c46e33e9444a81d60fc24bbbd69f.jpg",
-          "ingredients": [
-            "1 pound boneless, skinless chicken breasts",
-            "2 tablespoons olive oil",
-            "2 teaspoons chili powder",
-            "1 teaspoon cumin",
-            "1/2 teaspoon garlic powder",
-            "1/2 teaspoon onion powder",
-            "1/4 teaspoon salt",
-            "1 red bell pepper, sliced",
-            "1 green bell pepper, sliced",
-            "1 yellow onion, sliced",
-            "Tortillas, for serving"
-          ],
-          "method": [
-            "Preheat the oven to 400°F.",
-            "In a small bowl, mix together the chili powder, cumin, garlic powder, onion powder, and salt.",
-            "Cut the chicken breasts into thin strips, then coat with the spice mixture.",
-            "In a large bowl, toss the sliced peppers and onions with the olive oil.",
-            "Spread the peppers and onions in a single layer on a baking sheet, then arrange the chicken strips on top.",
-            "Roast in the oven for 20-25 minutes, until the chicken is cooked through.",
-            "Serve with tortillas."
-          ],
-          "rating": 4
-        },
-        {
-          "recipe_name": "Shrimp Scampi",
-          "id": 21,
-          "recipe_img": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
-          "ingredients": [
-            "1 pound shrimp, peeled and deveined",
-            "1/4 cup olive oil",
-            "4 cloves garlic, minced",
-            "1/2 teaspoon red pepper flakes",
-            "Salt and pepper, to taste",
-            "1/4 cup white wine",
-            "2 tablespoons lemon juice",
-            "1/4 cup chopped fresh parsley",
-            "Linguine, for serving"
-          ],
-          "method": [
-            "Cook the linguine according to package directions until al dente.",
-            "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
-            "Add the garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
-            "Add the shrimp and season with salt and pepper.",
-            "Cook the shrimp for 2-3 minutes on each side, until pink and cooked through.",
-            "Add the white wine and lemon juice to the skillet and bring to a simmer.",
-            "Stir in the chopped parsley.",
-            "Serve the shrimp scampi over the cooked linguine."
-          ],
-          "rating": 4
-        },
-        {
-          "recipe_name": "Baked Salmon with Lemon and Dill",
-          "id": 22,
-          "recipe_img": "https://disheswithdad.com/wp-content/uploads/2020/03/lemon-dill-salmon-3.jpg",
-          "ingredients": [
-            "4 salmon fillets",
-            "2 tablespoons olive oil",
-            "Salt and pepper, to taste",
-            "2 lemons, sliced",
-            "4 sprigs fresh dill",
-            "1/4 cup white wine"
-          ],
-          "method": [
-            "Preheat the oven to 400°F.",
-            "Line a baking sheet with foil and lightly grease with olive oil.",
-            "Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet.",
-            "Top each fillet with a slice of lemon and a sprig of dill.",
-            "Drizzle the white wine over the salmon fillets.",
-            "Bake in the oven for 12-15 minutes, until the salmon is cooked through and flaky.",
-            "Serve hot."
-          ],
-          "rating": 4
-        }
-      ]
-    },
-    {
-      "id": 5,
-      "chef_picture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvqaMhVSwZyIV79bzkm54tyoWtezhXVE9STm1-3hvBDnRCyGTzEdcS3v1NZYyVBN8ewB8&usqp=CAU",
-      "chef_name": "Munir Chowdhury",
-      "years_of_experience": 15,
-      "number_of_recipes": 200,
-      "likes": 15000,
-      "bio": "Michael Johnson is a chef with 15 years of experience. He has created 200 recipes and has gained 15000 likes for his dishes.",
-      "recipe": [
-        {
-          "recipe_name": "Chicken Fajitas",
-          "id": 20,
-          "recipe_img": "https://www.foodandwine.com/thmb/ja3nlw1Mxefbc9ZcTFxJMgqaw54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Chicken-Fajitas-FT-BLOG0822-2000-edc7c46e33e9444a81d60fc24bbbd69f.jpg",
-          "ingredients": [
-            "1 pound boneless, skinless chicken breasts",
-            "2 tablespoons olive oil",
-            "2 teaspoons chili powder",
-            "1 teaspoon cumin",
-            "1/2 teaspoon garlic powder",
-            "1/2 teaspoon onion powder",
-            "1/4 teaspoon salt",
-            "1 red bell pepper, sliced",
-            "1 green bell pepper, sliced",
-            "1 yellow onion, sliced",
-            "Tortillas, for serving"
-          ],
-          "method": [
-            "Preheat the oven to 400°F.",
-            "In a small bowl, mix together the chili powder, cumin, garlic powder, onion powder, and salt.",
-            "Cut the chicken breasts into thin strips, then coat with the spice mixture.",
-            "In a large bowl, toss the sliced peppers and onions with the olive oil.",
-            "Spread the peppers and onions in a single layer on a baking sheet, then arrange the chicken strips on top.",
-            "Roast in the oven for 20-25 minutes, until the chicken is cooked through.",
-            "Serve with tortillas."
-          ],
-          "rating": 4
-        },
-        {
-          "recipe_name": "Shrimp Scampi",
-          "id": 21,
-          "recipe_img": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
-          "ingredients": [
-            "1 pound shrimp, peeled and deveined",
-            "1/4 cup olive oil",
-            "4 cloves garlic, minced",
-            "1/2 teaspoon red pepper flakes",
-            "Salt and pepper, to taste",
-            "1/4 cup white wine",
-            "2 tablespoons lemon juice",
-            "1/4 cup chopped fresh parsley",
-            "Linguine, for serving"
-          ],
-          "method": [
-            "Cook the linguine according to package directions until al dente.",
-            "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
-            "Add the garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
-            "Add the shrimp and season with salt and pepper.",
-            "Cook the shrimp for 2-3 minutes on each side, until pink and cooked through.",
-            "Add the white wine and lemon juice to the skillet and bring to a simmer.",
-            "Stir in the chopped parsley.",
-            "Serve the shrimp scampi over the cooked linguine."
-          ],
-          "rating": 4
-        },
-        {
-          "recipe_name": "Baked Salmon with Lemon and Dill",
-          "id": 22,
-          "recipe_img": "https://disheswithdad.com/wp-content/uploads/2020/03/lemon-dill-salmon-3.jpg",
-          "ingredients": [
-            "4 salmon fillets",
-            "2 tablespoons olive oil",
-            "Salt and pepper, to taste",
-            "2 lemons, sliced",
-            "4 sprigs fresh dill",
-            "1/4 cup white wine"
-          ],
-          "method": [
-            "Preheat the oven to 400°F.",
-            "Line a baking sheet with foil and lightly grease with olive oil.",
-            "Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet.",
-            "Top each fillet with a slice of lemon and a sprig of dill.",
-            "Drizzle the white wine over the salmon fillets.",
-            "Bake in the oven for 12-15 minutes, until the salmon is cooked through and flaky.",
-            "Serve hot."
-          ],
-          "rating": 4
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "chef_picture": "https://banglalive.com/wp-content/uploads/2021/07/Kishwar-e1626422658967.jpeg",
-      "chef_name": "kishar chowdhury",
-      "years_of_experience": 9,
-      "number_of_recipes": 88,
-      "likes": 1200,
-      "bio": "David Lewis is a chef with 9 years of experience. He has created 88 recipes and has gained 1200 likes for his dishes.",
-      "recipe": [
-        {
-          "recipe_name": "Chicken Fajitas",
-          "id": 20,
-          "recipe_img": "https://www.foodandwine.com/thmb/ja3nlw1Mxefbc9ZcTFxJMgqaw54=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Chicken-Fajitas-FT-BLOG0822-2000-edc7c46e33e9444a81d60fc24bbbd69f.jpg",
-          "ingredients": [
-            "1 pound boneless, skinless chicken breasts",
-            "2 tablespoons olive oil",
-            "2 teaspoons chili powder",
-            "1 teaspoon cumin",
-            "1/2 teaspoon garlic powder",
-            "1/2 teaspoon onion powder",
-            "1/4 teaspoon salt",
-            "1 red bell pepper, sliced",
-            "1 green bell pepper, sliced",
-            "1 yellow onion, sliced",
-            "Tortillas, for serving"
-          ],
-          "method": [
-            "Preheat the oven to 400°F.",
-            "In a small bowl, mix together the chili powder, cumin, garlic powder, onion powder, and salt.",
-            "Cut the chicken breasts into thin strips, then coat with the spice mixture.",
-            "In a large bowl, toss the sliced peppers and onions with the olive oil.",
-            "Spread the peppers and onions in a single layer on a baking sheet, then arrange the chicken strips on top.",
-            "Roast in the oven for 20-25 minutes, until the chicken is cooked through.",
-            "Serve with tortillas."
-          ],
-          "rating": 4
-        },
-        {
-          "recipe_name": "Shrimp Scampi",
-          "id": 21,
-          "recipe_img": "https://www.allrecipes.com/thmb/jiV_4f8vXFle1RdFLgd8-_31J3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229960-shrimp-scampi-with-pasta-DDMFS-4x3-e065ddef4e6d44479d37b4523808cc23.jpg",
-          "ingredients": [
-            "1 pound shrimp, peeled and deveined",
-            "1/4 cup olive oil",
-            "4 cloves garlic, minced",
-            "1/2 teaspoon red pepper flakes",
-            "Salt and pepper, to taste",
-            "1/4 cup white wine",
-            "2 tablespoons lemon juice",
-            "1/4 cup chopped fresh parsley",
-            "Linguine, for serving"
-          ],
-          "method": [
-            "Cook the linguine according to package directions until al dente.",
-            "While the pasta cooks, heat the olive oil in a large skillet over medium-high heat.",
-            "Add the garlic and red pepper flakes and cook for 1-2 minutes, until fragrant.",
-            "Add the shrimp and season with salt and pepper.",
-            "Cook the shrimp for 2-3 minutes on each side, until pink and cooked through.",
-            "Add the white wine and lemon juice to the skillet and bring to a simmer.",
-            "Stir in the chopped parsley.",
-            "Serve the shrimp scampi over the cooked linguine."
-          ],
-          "rating": 4
-        },
-        {
-          "recipe_name": "Baked Salmon with Lemon and Dill",
-          "id": 22,
-          "recipe_img": "https://disheswithdad.com/wp-content/uploads/2020/03/lemon-dill-salmon-3.jpg",
-          "ingredients": [
-            "4 salmon fillets",
-            "2 tablespoons olive oil",
-            "Salt and pepper, to taste",
-            "2 lemons, sliced",
-            "4 sprigs fresh dill",
-            "1/4 cup white wine"
-          ],
-          "method": [
-            "Preheat the oven to 400°F.",
-            "Line a baking sheet with foil and lightly grease with olive oil.",
-            "Season the salmon fillets with salt and pepper, then place them on the prepared baking sheet.",
-            "Top each fillet with a slice of lemon and a sprig of dill.",
-            "Drizzle the white wine over the salmon fillets.",
-            "Bake in the oven for 12-15 minutes, until the salmon is cooked through and flaky.",
-            "Serve hot."
-          ],
-          "rating": 4
-        }
-      ]
-    }
-  ]
+  {
+    "id": 1,
+    "chef_picture": "https://i.pinimg.com/736x/33/28/e8/3328e85462dba56f56e43280a323117d.jpg",
+    "chef_name": "Dominique Crenn",
+    "years_of_experience": 10,
+    "number_of_recipes": 50,
+    "likes": 10000,
+    "bio": "Tommy Mia is a passionate chef with 10 years of experience. He specializes in flavorful dishes that combine traditional techniques with modern presentation.",
+    "recipe": [
+      {
+        "recipe_name": "Chicken Fajitas",
+        "id": 101,
+        "recipe_img": "https://images.unsplash.com/photo-1599974579688-8dbdd335c77f?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "500g boneless chicken breast",
+          "1 red bell pepper",
+          "1 green bell pepper",
+          "1 medium onion",
+          "2 tablespoons olive oil",
+          "1 teaspoon paprika",
+          "1 teaspoon cumin",
+          "Salt and black pepper",
+          "4 tortillas"
+        ],
+        "method": [
+          "Slice the chicken and vegetables into thin strips.",
+          "Season the chicken with paprika, cumin, salt, and pepper.",
+          "Heat olive oil in a large skillet.",
+          "Cook the chicken until golden and fully cooked.",
+          "Add the peppers and onion and cook until slightly tender.",
+          "Warm the tortillas and serve with the chicken mixture."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Garlic Butter Shrimp",
+        "id": 102,
+        "recipe_img": "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "500g peeled shrimp",
+          "4 cloves garlic",
+          "3 tablespoons butter",
+          "1 tablespoon lemon juice",
+          "1 tablespoon chopped parsley",
+          "Salt and black pepper"
+        ],
+        "method": [
+          "Pat the shrimp dry and season with salt and pepper.",
+          "Melt butter in a skillet over medium heat.",
+          "Add garlic and cook until fragrant.",
+          "Add shrimp and cook for 2 to 3 minutes per side.",
+          "Add lemon juice and parsley.",
+          "Serve immediately."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Herb Roasted Salmon",
+        "id": 103,
+        "recipe_img": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "4 salmon fillets",
+          "2 tablespoons olive oil",
+          "1 lemon",
+          "Fresh dill",
+          "Salt and black pepper"
+        ],
+        "method": [
+          "Preheat the oven to 200°C.",
+          "Place salmon fillets on a baking tray.",
+          "Season with olive oil, salt, pepper, lemon, and dill.",
+          "Bake for 12 to 15 minutes.",
+          "Serve hot with fresh vegetables."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "chef_picture": "https://i.pinimg.com/736x/68/6c/8d/686c8d8b81fa949c35503ae436c481f1.jpg",
+    "chef_name": "Anne-Sophie Pic",
+    "years_of_experience": 8,
+    "number_of_recipes": 75,
+    "likes": 8500,
+    "bio": "Nazrul Islam is an experienced chef with 8 years of culinary expertise. His cooking focuses on fresh ingredients, balanced flavors, and memorable presentation.",
+    "recipe": [
+      {
+        "recipe_name": "Creamy Chicken Pasta",
+        "id": 201,
+        "recipe_img": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "250g pasta",
+          "300g chicken breast",
+          "1 cup cooking cream",
+          "2 cloves garlic",
+          "2 tablespoons olive oil",
+          "50g parmesan",
+          "Salt and black pepper"
+        ],
+        "method": [
+          "Cook the pasta until al dente.",
+          "Slice the chicken into small pieces.",
+          "Heat olive oil and cook the chicken.",
+          "Add garlic and cook until fragrant.",
+          "Pour in the cream and simmer gently.",
+          "Add parmesan and cooked pasta.",
+          "Mix well and serve."
+        ],
+        "rating": 4
+      },
+      {
+        "recipe_name": "Crispy Fried Chicken",
+        "id": 202,
+        "recipe_img": "https://images.unsplash.com/photo-1562967916-eb82221dfb36?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "600g chicken pieces",
+          "1 cup flour",
+          "1 teaspoon paprika",
+          "1 teaspoon garlic powder",
+          "Salt and pepper",
+          "Oil for frying"
+        ],
+        "method": [
+          "Season the chicken with spices.",
+          "Coat each piece thoroughly with flour.",
+          "Heat oil in a deep pan.",
+          "Fry the chicken until golden and crispy.",
+          "Drain on a paper towel.",
+          "Serve hot."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Mango Chicken Salad",
+        "id": 203,
+        "recipe_img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "200g cooked chicken",
+          "1 ripe mango",
+          "Mixed salad greens",
+          "1 cucumber",
+          "2 tablespoons olive oil",
+          "1 tablespoon lemon juice"
+        ],
+        "method": [
+          "Slice the cooked chicken and mango.",
+          "Wash and prepare the salad greens.",
+          "Slice the cucumber.",
+          "Combine everything in a large bowl.",
+          "Add olive oil and lemon juice.",
+          "Toss gently and serve."
+        ],
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "chef_picture": "https://i.pinimg.com/736x/be/a2/ff/bea2ff4d6c21df80ee36f27ec6389c8a.jpg",
+    "chef_name": "Clare Smyth",
+    "years_of_experience": 12,
+    "number_of_recipes": 100,
+    "likes": 12000,
+    "bio": "Praveen Singh brings 12 years of culinary experience to the kitchen, creating creative recipes inspired by international flavors and modern cooking.",
+    "recipe": [
+      {
+        "recipe_name": "Butter Chicken",
+        "id": 301,
+        "recipe_img": "https://images.unsplash.com/photo-1603894584373-5ac82b2ae398?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "500g chicken",
+          "1 cup tomato puree",
+          "1/2 cup cream",
+          "2 tablespoons butter",
+          "1 teaspoon garam masala",
+          "1 teaspoon cumin",
+          "Salt to taste"
+        ],
+        "method": [
+          "Marinate the chicken with spices.",
+          "Cook the chicken until lightly browned.",
+          "Melt butter in a pan.",
+          "Add tomato puree and spices.",
+          "Simmer for several minutes.",
+          "Add cream and cooked chicken.",
+          "Cook gently and serve with rice."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Beef Steak",
+        "id": 302,
+        "recipe_img": "https://images.unsplash.com/photo-1546964124-0cce460f38ef?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "2 beef steaks",
+          "2 tablespoons olive oil",
+          "2 cloves garlic",
+          "Fresh rosemary",
+          "Salt and black pepper"
+        ],
+        "method": [
+          "Season the steaks generously.",
+          "Heat a heavy skillet.",
+          "Add olive oil and garlic.",
+          "Cook steaks according to preferred doneness.",
+          "Add rosemary during cooking.",
+          "Rest the steaks for five minutes.",
+          "Slice and serve."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Vegetable Stir Fry",
+        "id": 303,
+        "recipe_img": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "1 carrot",
+          "1 bell pepper",
+          "1 cup broccoli",
+          "1 zucchini",
+          "2 tablespoons soy sauce",
+          "1 tablespoon sesame oil"
+        ],
+        "method": [
+          "Wash and slice all vegetables.",
+          "Heat sesame oil in a wok.",
+          "Add vegetables and stir fry over high heat.",
+          "Add soy sauce.",
+          "Cook until vegetables are tender but crisp.",
+          "Serve immediately."
+        ],
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "chef_picture": "https://i.pinimg.com/736x/6b/6b/88/6b6b880d7387f24602052a3724107027.jpg",
+    "chef_name": "Julia Child",
+    "years_of_experience": 6,
+    "number_of_recipes": 40,
+    "likes": 5000,
+    "bio": "Shawkat Osman is a talented chef with 6 years of experience, known for seafood dishes, elegant presentation, and carefully balanced flavors.",
+    "recipe": [
+      {
+        "recipe_name": "Grilled Garlic Prawns",
+        "id": 401,
+        "recipe_img": "https://images.unsplash.com/photo-1559339352-11d035aa65de?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "500g large prawns",
+          "4 cloves garlic",
+          "2 tablespoons olive oil",
+          "1 tablespoon lemon juice",
+          "Fresh parsley",
+          "Salt and pepper"
+        ],
+        "method": [
+          "Clean and devein the prawns.",
+          "Mix prawns with garlic, olive oil, lemon, salt, and pepper.",
+          "Marinate for 15 minutes.",
+          "Grill for 2 to 3 minutes per side.",
+          "Garnish with parsley.",
+          "Serve immediately."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Creamy Seafood Pasta",
+        "id": 402,
+        "recipe_img": "https://images.unsplash.com/photo-1563379926898-05f4575a45d8?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "250g linguine",
+          "200g shrimp",
+          "150g squid",
+          "1 cup cream",
+          "2 cloves garlic",
+          "Parmesan cheese"
+        ],
+        "method": [
+          "Cook the pasta until al dente.",
+          "Sauté garlic in olive oil.",
+          "Add seafood and cook briefly.",
+          "Add cream and simmer.",
+          "Add parmesan.",
+          "Toss with pasta and serve."
+        ],
+        "rating": 4
+      },
+      {
+        "recipe_name": "Lemon Herb Fish",
+        "id": 403,
+        "recipe_img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "4 white fish fillets",
+          "2 lemons",
+          "2 tablespoons olive oil",
+          "Fresh herbs",
+          "Salt and pepper"
+        ],
+        "method": [
+          "Season the fish with salt and pepper.",
+          "Place fish on a baking tray.",
+          "Drizzle with olive oil and lemon juice.",
+          "Add fresh herbs.",
+          "Bake until the fish flakes easily.",
+          "Serve warm."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "chef_picture": "https://i.pinimg.com/736x/48/8f/68/488f68d2bae90152ae7256ba83f37c9c.jpg",
+    "chef_name": "Keka Ferdousi",
+    "years_of_experience": 15,
+    "number_of_recipes": 200,
+    "likes": 15000,
+    "bio": "Munir Chowdhury is a highly experienced chef with 15 years in the culinary world. His recipes bring together flavors and techniques from different cultures.",
+    "recipe": [
+      {
+        "recipe_name": "Classic Beef Burger",
+        "id": 501,
+        "recipe_img": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "500g ground beef",
+          "4 burger buns",
+          "4 cheese slices",
+          "1 tomato",
+          "1 onion",
+          "Lettuce",
+          "Salt and pepper"
+        ],
+        "method": [
+          "Season the ground beef.",
+          "Shape the beef into burger patties.",
+          "Grill the patties until cooked.",
+          "Toast the burger buns.",
+          "Add cheese to the hot patties.",
+          "Assemble burgers with vegetables and sauce.",
+          "Serve immediately."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Chicken Tikka",
+        "id": 502,
+        "recipe_img": "https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "500g chicken",
+          "1 cup yogurt",
+          "1 teaspoon paprika",
+          "1 teaspoon cumin",
+          "1 teaspoon garam masala",
+          "2 cloves garlic",
+          "1 tablespoon lemon juice"
+        ],
+        "method": [
+          "Cut chicken into bite-sized pieces.",
+          "Mix yogurt with spices, garlic, and lemon.",
+          "Marinate chicken for at least one hour.",
+          "Thread chicken onto skewers.",
+          "Grill until lightly charred and cooked.",
+          "Serve with fresh salad."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Classic Beef Lasagna",
+        "id": 503,
+        "recipe_img": "https://images.unsplash.com/photo-1574894709920-11b28e7367e3?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "Lasagna sheets",
+          "400g ground beef",
+          "2 cups tomato sauce",
+          "1 cup mozzarella",
+          "1 cup ricotta",
+          "1 onion",
+          "2 cloves garlic"
+        ],
+        "method": [
+          "Cook onion and garlic in olive oil.",
+          "Add beef and cook until browned.",
+          "Add tomato sauce and simmer.",
+          "Layer sauce, pasta, and cheese in a baking dish.",
+          "Repeat the layers.",
+          "Bake until golden and bubbling.",
+          "Rest before serving."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "chef_picture": "https://i.pinimg.com/736x/a5/0b/6e/a50b6e4da206dd1335bfb84e4989be83.jpg",
+    "chef_name": "Alpana Habib",
+    "years_of_experience": 9,
+    "number_of_recipes": 88,
+    "likes": 1200,
+    "bio": "Kishar Chowdhury is a creative chef with 9 years of experience, specializing in elegant desserts and refined pastry techniques.",
+    "recipe": [
+      {
+        "recipe_name": "Chocolate Lava Cake",
+        "id": 601,
+        "recipe_img": "https://images.unsplash.com/photo-1606313564200-e75d5e30476c?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "100g dark chocolate",
+          "100g butter",
+          "2 eggs",
+          "2 egg yolks",
+          "50g sugar",
+          "40g flour"
+        ],
+        "method": [
+          "Melt chocolate and butter together.",
+          "Whisk eggs, yolks, and sugar.",
+          "Combine the chocolate mixture with the eggs.",
+          "Fold in flour gently.",
+          "Pour into greased ramekins.",
+          "Bake until the edges are firm and center remains soft.",
+          "Serve warm."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Strawberry Tart",
+        "id": 602,
+        "recipe_img": "https://images.unsplash.com/photo-1464305795204-6f5bbfc7fb81?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "Tart pastry",
+          "Fresh strawberries",
+          "1 cup pastry cream",
+          "2 tablespoons sugar",
+          "1 tablespoon butter"
+        ],
+        "method": [
+          "Bake the tart shell until golden.",
+          "Prepare the pastry cream.",
+          "Fill the cooled tart shell with cream.",
+          "Arrange fresh strawberries on top.",
+          "Brush lightly with glaze.",
+          "Chill before serving."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Classic French Macarons",
+        "id": 603,
+        "recipe_img": "https://images.unsplash.com/photo-1558326567-98ae2405596b?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "Almond flour",
+          "Powdered sugar",
+          "Egg whites",
+          "Granulated sugar",
+          "Vanilla extract",
+          "Buttercream filling"
+        ],
+        "method": [
+          "Sift almond flour and powdered sugar.",
+          "Whip egg whites with sugar until glossy.",
+          "Fold dry ingredients into the meringue.",
+          "Pipe small rounds onto a baking sheet.",
+          "Rest the shells before baking.",
+          "Bake until set.",
+          "Fill with buttercream."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "chef_picture": "https://i.pinimg.com/736x/dd/25/78/dd2578824d149cd54624082932736edf.jpg",
+    "chef_name": "Siddiqua Kabir",
+    "years_of_experience": 11,
+    "number_of_recipes": 92,
+    "likes": 7800,
+    "bio": "Arif Rahman is an experienced chef with 11 years of culinary expertise, specializing in authentic Bangladeshi cuisine and traditional flavors.",
+    "recipe": [
+      {
+        "recipe_name": "Beef Bhuna",
+        "id": 701,
+        "recipe_img": "https://images.unsplash.com/photo-1601050690597-df0568f70950?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "500g beef",
+          "2 onions",
+          "3 cloves garlic",
+          "1 tablespoon ginger",
+          "1 teaspoon turmeric",
+          "1 teaspoon cumin",
+          "1 teaspoon chili powder",
+          "Salt",
+          "2 tablespoons oil"
+        ],
+        "method": [
+          "Heat oil and fry sliced onions.",
+          "Add ginger and garlic.",
+          "Add spices and cook briefly.",
+          "Add beef and mix thoroughly.",
+          "Cook until the beef releases its juices.",
+          "Continue cooking until tender and the oil separates.",
+          "Serve with rice or naan."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Chicken Tehari",
+        "id": 702,
+        "recipe_img": "https://images.unsplash.com/photo-1512058564366-18510be2db19?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "500g chicken",
+          "2 cups basmati rice",
+          "2 onions",
+          "1 teaspoon turmeric",
+          "1 teaspoon cumin",
+          "Whole spices",
+          "Salt",
+          "3 tablespoons oil"
+        ],
+        "method": [
+          "Wash and soak the rice.",
+          "Fry onions until golden.",
+          "Add chicken and spices.",
+          "Cook until chicken is partially tender.",
+          "Add rice and measured water.",
+          "Cover and cook until rice is fluffy.",
+          "Rest before serving."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Shorshe Ilish",
+        "id": 703,
+        "recipe_img": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "4 hilsa steaks",
+          "3 tablespoons mustard paste",
+          "1 teaspoon turmeric",
+          "2 green chilies",
+          "Salt",
+          "2 tablespoons mustard oil"
+        ],
+        "method": [
+          "Season the hilsa with turmeric and salt.",
+          "Heat mustard oil in a pan.",
+          "Add mustard paste and a little water.",
+          "Place the fish into the sauce.",
+          "Add green chilies.",
+          "Cover and simmer gently until cooked.",
+          "Serve with steamed rice."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "chef_picture": "https://i.pinimg.com/736x/fd/0b/0b/fd0b0b13996899140893fd06083a3b8a.jpg",
+    "chef_name": "Sadia Karim",
+    "years_of_experience": 7,
+    "number_of_recipes": 64,
+    "likes": 6200,
+    "bio": "Sadia Karim is a creative chef with 7 years of experience, blending Asian culinary traditions with modern ingredients and techniques.",
+    "recipe": [
+      {
+        "recipe_name": "Thai Green Curry",
+        "id": 801,
+        "recipe_img": "https://images.unsplash.com/photo-1455619452474-d2be8b1e70cd?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "300g chicken",
+          "2 tablespoons green curry paste",
+          "1 cup coconut milk",
+          "1 bell pepper",
+          "Fresh basil",
+          "1 tablespoon fish sauce"
+        ],
+        "method": [
+          "Cook the curry paste in a hot pan.",
+          "Add chicken and cook until lightly browned.",
+          "Pour in coconut milk.",
+          "Add sliced bell pepper.",
+          "Simmer until chicken is cooked.",
+          "Add fish sauce and basil.",
+          "Serve with jasmine rice."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Chicken Teriyaki Bowl",
+        "id": 802,
+        "recipe_img": "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "300g chicken",
+          "3 tablespoons soy sauce",
+          "1 tablespoon honey",
+          "1 teaspoon ginger",
+          "2 cups cooked rice",
+          "Spring onions"
+        ],
+        "method": [
+          "Slice the chicken.",
+          "Mix soy sauce, honey, and ginger.",
+          "Cook chicken in a hot skillet.",
+          "Pour over the teriyaki sauce.",
+          "Cook until glossy.",
+          "Serve over steamed rice.",
+          "Garnish with spring onions."
+        ],
+        "rating": 4
+      },
+      {
+        "recipe_name": "Vegetable Ramen",
+        "id": 803,
+        "recipe_img": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "Ramen noodles",
+          "Vegetable broth",
+          "Mushrooms",
+          "Carrots",
+          "Spinach",
+          "Spring onions",
+          "Soy sauce"
+        ],
+        "method": [
+          "Bring vegetable broth to a simmer.",
+          "Add mushrooms and carrots.",
+          "Cook noodles separately.",
+          "Add noodles to the broth.",
+          "Season with soy sauce.",
+          "Add spinach and spring onions.",
+          "Serve hot."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "chef_picture": "https://i.pinimg.com/736x/8c/62/ff/8c62ff28685ae72b39d8d477f992d9e1.jpg",
+    "chef_name": "Rahima Sultana Rita",
+    "years_of_experience": 9,
+    "number_of_recipes": 78,
+    "likes": 5400,
+    "bio": "Tanvir Hasan is a dedicated baker with 9 years of experience, creating artisan breads, pastries, and modern baked treats.",
+    "recipe": [
+      {
+        "recipe_name": "Classic Croissant",
+        "id": 901,
+        "recipe_img": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "500g flour",
+          "50g sugar",
+          "10g salt",
+          "10g yeast",
+          "300ml milk",
+          "250g cold butter"
+        ],
+        "method": [
+          "Mix flour, sugar, salt, yeast, and milk.",
+          "Knead until smooth.",
+          "Chill the dough.",
+          "Layer the dough with cold butter.",
+          "Fold and roll several times.",
+          "Shape into croissants.",
+          "Proof and bake until golden."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Cinnamon Rolls",
+        "id": 902,
+        "recipe_img": "https://images.unsplash.com/photo-1509365465985-25d11c17e812?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "500g flour",
+          "250ml milk",
+          "50g butter",
+          "50g sugar",
+          "Cinnamon",
+          "Brown sugar",
+          "Yeast"
+        ],
+        "method": [
+          "Prepare a soft yeast dough.",
+          "Allow the dough to rise.",
+          "Roll the dough into a rectangle.",
+          "Spread butter, cinnamon, and brown sugar.",
+          "Roll tightly and cut into pieces.",
+          "Proof again.",
+          "Bake until golden."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Chocolate Brownies",
+        "id": 903,
+        "recipe_img": "https://images.unsplash.com/photo-1564355808539-22fda35bed7e?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "200g dark chocolate",
+          "150g butter",
+          "150g sugar",
+          "3 eggs",
+          "100g flour",
+          "50g cocoa powder"
+        ],
+        "method": [
+          "Melt chocolate and butter.",
+          "Whisk eggs and sugar.",
+          "Combine with the chocolate mixture.",
+          "Fold in flour and cocoa.",
+          "Pour into a lined baking tray.",
+          "Bake until the center is slightly soft.",
+          "Cool before slicing."
+        ],
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "chef_picture": "https://i.pinimg.com/736x/1b/da/df/1bdadff9a4e5a013a333c78c18d4d6fa.jpg",
+    "chef_name": "Nabila Ahmed",
+    "years_of_experience": 8,
+    "number_of_recipes": 71,
+    "likes": 6900,
+    "bio": "Nabila Ahmed has 8 years of culinary experience and focuses on colorful, nutritious meals that make healthy eating enjoyable.",
+    "recipe": [
+      {
+        "recipe_name": "Avocado Chicken Bowl",
+        "id": 1001,
+        "recipe_img": "https://images.unsplash.com/photo-1547592180-81e3f6c2b7e0?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "200g grilled chicken",
+          "1 avocado",
+          "1 cup cooked quinoa",
+          "Cherry tomatoes",
+          "Cucumber",
+          "Lemon juice",
+          "Olive oil"
+        ],
+        "method": [
+          "Cook the quinoa and let it cool slightly.",
+          "Grill the chicken until fully cooked.",
+          "Slice avocado, cucumber, and tomatoes.",
+          "Place quinoa in a bowl.",
+          "Add chicken and vegetables.",
+          "Drizzle with lemon juice and olive oil.",
+          "Serve fresh."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Mediterranean Salad",
+        "id": 1002,
+        "recipe_img": "https://images.unsplash.com/photo-1540420773420-3366772f4999?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "Mixed greens",
+          "Cucumber",
+          "Tomatoes",
+          "Olives",
+          "Feta cheese",
+          "Olive oil",
+          "Lemon juice"
+        ],
+        "method": [
+          "Wash and prepare all vegetables.",
+          "Chop cucumber and tomatoes.",
+          "Combine vegetables and greens.",
+          "Add olives and feta.",
+          "Drizzle with olive oil and lemon.",
+          "Toss gently and serve."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Grilled Vegetable Wrap",
+        "id": 1003,
+        "recipe_img": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "Whole wheat tortillas",
+          "Zucchini",
+          "Bell pepper",
+          "Carrot",
+          "Hummus",
+          "Lettuce"
+        ],
+        "method": [
+          "Slice the vegetables.",
+          "Grill until lightly charred.",
+          "Spread hummus over the tortilla.",
+          "Add grilled vegetables and lettuce.",
+          "Roll tightly.",
+          "Slice and serve."
+        ],
+        "rating": 4
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "chef_picture": "https://i.pinimg.com/736x/e7/05/9a/e7059a498f48020037bc1eb658519c0d.jpg",
+    "chef_name": "Kalpana Rahman",
+    "years_of_experience": 13,
+    "number_of_recipes": 115,
+    "likes": 9100,
+    "bio": "Fahim Chowdhury is a grill specialist with 13 years of experience, known for smoky flavors, perfectly grilled meats, and bold sauces.",
+    "recipe": [
+      {
+        "recipe_name": "Smoky BBQ Ribs",
+        "id": 1101,
+        "recipe_img": "https://images.unsplash.com/photo-1544025162-d76694265947?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "1kg beef ribs",
+          "3 tablespoons BBQ sauce",
+          "1 teaspoon paprika",
+          "1 teaspoon garlic powder",
+          "Salt and pepper"
+        ],
+        "method": [
+          "Season the ribs generously.",
+          "Allow them to rest for at least 30 minutes.",
+          "Slow cook until tender.",
+          "Brush generously with BBQ sauce.",
+          "Grill until lightly charred.",
+          "Rest before serving."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Grilled Chicken Skewers",
+        "id": 1102,
+        "recipe_img": "https://images.unsplash.com/photo-1532550907401-a500c9a57435?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "500g chicken",
+          "1 bell pepper",
+          "1 onion",
+          "2 tablespoons olive oil",
+          "Paprika",
+          "Garlic powder",
+          "Salt and pepper"
+        ],
+        "method": [
+          "Cut chicken and vegetables into pieces.",
+          "Season with spices and olive oil.",
+          "Thread onto skewers.",
+          "Grill over medium-high heat.",
+          "Turn regularly until cooked.",
+          "Serve with fresh salad."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Grilled Steak with Herbs",
+        "id": 1103,
+        "recipe_img": "https://images.unsplash.com/photo-1558030006-450675393462?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "2 beef steaks",
+          "2 tablespoons olive oil",
+          "Fresh rosemary",
+          "Fresh thyme",
+          "2 garlic cloves",
+          "Salt and pepper"
+        ],
+        "method": [
+          "Season steaks with salt and pepper.",
+          "Heat the grill until very hot.",
+          "Grill steaks on both sides.",
+          "Add garlic and fresh herbs.",
+          "Cook to preferred doneness.",
+          "Rest for five minutes before serving."
+        ],
+        "rating": 5
+      }
+    ]
+  },
+  {
+    "id": 12,
+    "chef_picture": "https://i.pinimg.com/736x/89/bb/4d/89bb4d05ad93ecf857dbfd7b4da632f9.jpg",
+    "chef_name": "Maliha Noor",
+    "years_of_experience": 6,
+    "number_of_recipes": 56,
+    "likes": 4800,
+    "bio": "Maliha Noor is a passionate pastry chef with 6 years of experience, creating elegant desserts and beautiful pastries for every occasion.",
+    "recipe": [
+      {
+        "recipe_name": "Raspberry Cheesecake",
+        "id": 1201,
+        "recipe_img": "https://images.unsplash.com/photo-1533134242443-d4fd215305ad?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "200g digestive biscuits",
+          "80g melted butter",
+          "400g cream cheese",
+          "100g sugar",
+          "2 eggs",
+          "Fresh raspberries"
+        ],
+        "method": [
+          "Crush the biscuits and mix with melted butter.",
+          "Press into a cake tin.",
+          "Beat cream cheese with sugar.",
+          "Add eggs and mix until smooth.",
+          "Pour over the biscuit base.",
+          "Bake until just set.",
+          "Cool and decorate with raspberries."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Classic Tiramisu",
+        "id": 1202,
+        "recipe_img": "https://images.unsplash.com/photo-1571877227200-a0d98ea607e9?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "Ladyfinger biscuits",
+          "250g mascarpone",
+          "2 eggs",
+          "60g sugar",
+          "Strong coffee",
+          "Cocoa powder"
+        ],
+        "method": [
+          "Prepare strong coffee and allow it to cool.",
+          "Whisk eggs and sugar until creamy.",
+          "Fold in mascarpone.",
+          "Dip ladyfingers briefly into coffee.",
+          "Layer biscuits and mascarpone cream.",
+          "Repeat the layers.",
+          "Chill and dust with cocoa before serving."
+        ],
+        "rating": 5
+      },
+      {
+        "recipe_name": "Vanilla Berry Pavlova",
+        "id": 1203,
+        "recipe_img": "https://images.unsplash.com/photo-1488477181946-6428a0291777?auto=format&fit=crop&w=1200&q=85",
+        "ingredients": [
+          "4 egg whites",
+          "200g sugar",
+          "1 teaspoon vanilla",
+          "1 teaspoon cornstarch",
+          "Whipped cream",
+          "Mixed berries"
+        ],
+        "method": [
+          "Whip egg whites until soft peaks form.",
+          "Gradually add sugar and continue whipping.",
+          "Fold in vanilla and cornstarch.",
+          "Shape the meringue on a baking tray.",
+          "Bake at low temperature until crisp outside.",
+          "Cool completely.",
+          "Top with whipped cream and fresh berries."
+        ],
+        "rating": 5
+      }
+    ]
+  }
+]

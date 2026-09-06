@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-const port = 5000;
+const port = 6001;
 const chefslider = require("./data/chifslider.json");
 const recipes = require("./data/recipes.json");
 const cors = require("cors");
